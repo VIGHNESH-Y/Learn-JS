@@ -1,0 +1,2 @@
+# Learn-JS
+Basic JS :)
