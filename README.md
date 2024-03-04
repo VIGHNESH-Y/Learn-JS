@@ -13,3 +13,6 @@ Basic JS :)
  - Performed String+Numeric Concatenation
  - Learnt Different Types of Datatypes present in JS.
  - Used Typeof to understand the type of the variable.
+   
+ - ![image](https://github.com/VIGHNESH-Y/Learn-JS/assets/80388978/08e20e48-5210-456a-b7f6-15b64df681b0)
+
