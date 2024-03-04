@@ -13,7 +13,7 @@ console.log("The Remainder is",a%c); // This would return 1 as the remainder as 
 let txt1= "Hello";
 let txt2= "World";
 console.log(txt1<txt2); //Uses ASCII Value to check if it is true..
-console.log(txt+txt2); //Concatenation of two stings.
+console.log(txt1+txt2); //Concatenation of two stings.
 console.log(txt2+="How are you"); // Adds text to the Origial one..
 console.log(txt2+'5'); //Can add both Interger and a string but returns the value as a string.
 console.log(5+5); //Returns 10 by normal Interger addition..
