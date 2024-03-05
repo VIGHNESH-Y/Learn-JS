@@ -16,3 +16,10 @@ Basic JS :)
    
  - ![image](https://github.com/VIGHNESH-Y/Learn-JS/assets/80388978/08e20e48-5210-456a-b7f6-15b64df681b0)
 
+# DAY-3
+
+- Learnt to write one basic Function in [FIRST FILE]
+- Built a calculator implementing **FUNCTIONS**,**LOOPS**,**CONDITIONAL STATEMENTS**,**BUILT IN FUNCTIONS**
+- Used Error Handling in JavaScript to handle Errors in JS.
+- Used While Loop to loop until a condition is achieved.
+![image](https://github.com/VIGHNESH-Y/Learn-JS/assets/80388978/25f78611-59b7-4a5f-8c08-6489c3870aaa)
