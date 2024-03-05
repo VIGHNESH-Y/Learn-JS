@@ -41,3 +41,10 @@ const date = new Date("2004-12-25");
 typeof(date); //Returns Date
 typeof(person); //Returns Object
 typeof(x); //Returns Bool
+
+function MyFirstFunction (val1,val2){ //Takes in 2 Values which are Val1 and Val2
+console.log(val1*val2); // A MULTIPLICATION FUNCTION
+}
+var a=10;
+var b=20;
+MyFirstFunction(10,20) //FUNCTION CALL
