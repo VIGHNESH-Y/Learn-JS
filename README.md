@@ -18,7 +18,7 @@ Basic JS :)
 
 # DAY-3
 
-- Learnt to write one basic Function in BASIC COMMANDS.JS
+- Learnt to write one basic Function in BASIC-COMMANDS.JS
 - Built a calculator implementing **FUNCTIONS**,**LOOPS**,**CONDITIONAL STATEMENTS**,**BUILT IN FUNCTIONS**
 - Used Error Handling in JavaScript to handle Errors in JS.
 - Used While Loop to loop until a condition is achieved.
