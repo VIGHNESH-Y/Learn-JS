@@ -1,5 +1,5 @@
 # Learn-JS
-Basic JS :)
+Basic JS to learn  :)
 
 # DAY -1 
   - Printed Hello World in Javascript.
