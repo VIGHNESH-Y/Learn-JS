@@ -48,3 +48,5 @@ console.log(val1*val2); // A MULTIPLICATION FUNCTION
 var a=10;
 var b=20;
 MyFirstFunction(10,20) //FUNCTION CALL
+
+console.log("Now Off to Learn Js for Web Development")
