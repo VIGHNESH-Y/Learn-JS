@@ -50,3 +50,4 @@ var b=20;
 MyFirstFunction(10,20) //FUNCTION CALL
 
 console.log("Now Off to Learn Js for Web Development")
+console.log("Happy Web Development ")
